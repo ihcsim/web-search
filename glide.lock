@@ -1,0 +1,6 @@
+hash: ecccda9b8a6f92ae00e0f44ec95d139f8c04c7603ba9b00fa5289b490c75a041
+updated: 2016-08-26T14:50:40.32562125-07:00
+imports:
+- name: github.com/pkg/errors
+  version: 17b591df37844cde689f4d5813e5cea0927d8dd2
+testImports: []
