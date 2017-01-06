@@ -1,4 +1,7 @@
 # web-search
+
+[![Codeship Status for ihcsim/web-search](https://app.codeship.com/projects/078c5ba0-b663-0134-52cc-7ea8c0f9c13a/status?branch=master)](https://app.codeship.com/projects/194346)
+
 A golang web-search server that submits search requests to the Google Custom Search API.
 
 This project requires Golang 1.7. It explores the following Go features:
